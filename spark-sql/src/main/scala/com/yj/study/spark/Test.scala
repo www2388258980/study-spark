@@ -8,7 +8,7 @@ object Test {
     val spark = SparkSession
       .builder()
       .appName("Spark SQL basic example")
-      .config("spark.testing.memory", "471859200")
+//      .config("spark.testing.memory", "471859200")
       .master("local[*]")
       .getOrCreate()
 
