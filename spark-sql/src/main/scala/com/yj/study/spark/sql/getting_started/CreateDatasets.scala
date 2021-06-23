@@ -1,6 +1,6 @@
 package com.yj.study.spark.sql.getting_started
 
-import com.yj.study.spark.SparkSessionUtils
+import com.yj.study.spark.sql.SparkSessionUtils
 
 case class Person(name: String, age: Long)
 

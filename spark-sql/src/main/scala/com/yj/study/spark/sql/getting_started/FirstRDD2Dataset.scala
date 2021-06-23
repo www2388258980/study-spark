@@ -1,6 +1,6 @@
 package com.yj.study.spark.sql.getting_started
 
-import com.yj.study.spark.SparkSessionUtils
+import com.yj.study.spark.sql.SparkSessionUtils
 
 object FirstRDD2Dataset {
   def main(args: Array[String]): Unit = {
