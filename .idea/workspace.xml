@@ -3,20 +3,32 @@
   <component name="ChangeListManager">
     <list default="true" id="e451c59c-0bc7-4280-a369-24026c43e000" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/SparkSessionUtils.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/Test.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/getting_started/CreateDatasets.scala" beforeDir="false" afterPath="$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/getting_started/CreateDatasets.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/getting_started/FirstRDD2Dataset.scala" beforeDir="false" afterPath="$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/getting_started/FirstRDD2Dataset.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/getting_started/SecondRDD2Dataset.scala" beforeDir="false" afterPath="$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/getting_started/SecondRDD2Dataset.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes.471900000.timestamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/META-INF/sparks-ql.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/com/yj/study/spark/SparkSessionUtils$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/com/yj/study/spark/SparkSessionUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/com/yj/study/spark/Test$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/com/yj/study/spark/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/com/yj/study/spark/sql/getting_started/CreateDatasets$.class" beforeDir="false" afterPath="$PROJECT_DIR$/spark-sql/target/classes/com/yj/study/spark/sql/getting_started/CreateDatasets$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/com/yj/study/spark/sql/getting_started/FirstRDD2Dataset$.class" beforeDir="false" afterPath="$PROJECT_DIR$/spark-sql/target/classes/com/yj/study/spark/sql/getting_started/FirstRDD2Dataset$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/com/yj/study/spark/sql/getting_started/SecondRDD2Dataset$.class" beforeDir="false" afterPath="$PROJECT_DIR$/spark-sql/target/classes/com/yj/study/spark/sql/getting_started/SecondRDD2Dataset$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO$CachedUid.class" beforeDir="false" afterPath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO$CachedUid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO$POSIX$CacheManipulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO$POSIX$CacheManipulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO$POSIX$CachedName.class" beforeDir="false" afterPath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO$POSIX$CachedName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO$POSIX$IdCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO$POSIX$IdCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO$POSIX$NoMlockCacheManipulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO$POSIX$NoMlockCacheManipulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO$POSIX$Stat.class" beforeDir="false" afterPath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO$POSIX$Stat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO$POSIX.class" beforeDir="false" afterPath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO$POSIX.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO$Windows$AccessRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO$Windows$AccessRight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO$Windows.class" beforeDir="false" afterPath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO$Windows.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/spark-sql/target/classes/org/apache/hadoop/io/nativeio/NativeIO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/parquet/favorite_color.parquet/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/parquet/favorite_color.parquet/.part-00000-dce4cdd9-a131-445f-a5be-995ba96fee71-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/parquet/favorite_color.parquet/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/parquet/favorite_color.parquet/part-00000-dce4cdd9-a131-445f-a5be-995ba96fee71-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/warehouse/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/warehouse/.part-00000-85cb79a9-a2fb-43e0-ab3d-d4438ba39969_00003.c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/warehouse/.part-00000-85cb79a9-a2fb-43e0-ab3d-d4438ba39969_00019.c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/warehouse/.part-00000-85cb79a9-a2fb-43e0-ab3d-d4438ba39969_00021.c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/warehouse/.part-00000-85cb79a9-a2fb-43e0-ab3d-d4438ba39969_00022.c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/warehouse/.part-00000-85cb79a9-a2fb-43e0-ab3d-d4438ba39969_00029.c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/warehouse/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/warehouse/part-00000-85cb79a9-a2fb-43e0-ab3d-d4438ba39969_00003.c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/warehouse/part-00000-85cb79a9-a2fb-43e0-ab3d-d4438ba39969_00019.c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/warehouse/part-00000-85cb79a9-a2fb-43e0-ab3d-d4438ba39969_00021.c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/warehouse/part-00000-85cb79a9-a2fb-43e0-ab3d-d4438ba39969_00022.c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-sql/target/classes/warehouse/part-00000-85cb79a9-a2fb-43e0-ab3d-d4438ba39969_00029.c000.snappy.parquet" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/spark-sql/target/" />
@@ -35,8 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/data_source/GenericLoadAndSaveFunctions.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="968">
-              <caret line="44" column="43" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
+            <state relative-caret-position="284">
+              <caret line="53" column="55" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="55" />
               <folding>
                 <element signature="e#44#106#0" expanded="true" />
               </folding>
@@ -44,38 +56,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/org/apache/hadoop/io/nativeio/NativeIO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="52" column="35" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.12/3.1.2/spark-sql_2.12-3.1.2-sources.jar!/org/apache/spark/sql/DataFrameWriter.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="267" column="10" selection-start-line="267" selection-start-column="5" selection-end-line="267" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/csv/people.csv">
+        <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/data_source/GenericFileSourceOption.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+              <caret line="11" column="42" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/data_source/PathGlobFilterTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/LoggerTrait.scala">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.12/3.1.2/spark-sql_2.12-3.1.2-sources.jar!/org/apache/spark/sql/SparkSession.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+            <state relative-caret-position="13398">
+              <caret line="657" column="49" selection-start-line="657" selection-start-column="34" selection-end-line="657" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.12/3.1.2/spark-sql_2.12-3.1.2-sources.jar!/org/apache/spark/sql/DataFrameReader.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="62" column="45" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/dir1/z.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="33" selection-start-column="33" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -83,26 +104,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/SparkSessionUtils.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            <state relative-caret-position="286">
+              <caret line="13" column="20" selection-start-line="8" selection-start-column="4" selection-end-line="13" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/Test.scala">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.12/3.1.2/spark-sql_2.12-3.1.2-sources.jar!/org/apache/spark/sql/execution/datasources/DataSource.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="31" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="31" />
+            <state relative-caret-position="432">
+              <caret line="418" column="59" selection-start-line="418" selection-start-column="59" selection-end-line="418" selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/3.2.0/hadoop-common-3.2.0-sources.jar!/org/apache/hadoop/fs/FileUtil.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.10/scala-library-2.12.10-sources.jar!/scala/Option.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25652">
-              <caret line="1230" column="20" selection-start-line="1230" selection-start-column="12" selection-end-line="1230" selection-end-column="20" />
+            <state relative-caret-position="3916">
+              <caret line="188" selection-start-line="188" selection-end-line="188" />
             </state>
           </provider>
         </entry>
@@ -146,8 +167,10 @@
         <option value="$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/LoggerTrait.scala" />
         <option value="$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/SparkSessionUtils.scala" />
         <option value="$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/Test.scala" />
-        <option value="$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/data_source/GenericLoadAndSaveFunctions.scala" />
         <option value="$PROJECT_DIR$/spark-sql/src/main/scala/org/apache/hadoop/io/nativeio/NativeIO.java" />
+        <option value="$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/data_source/GenericLoadAndSaveFunctions.scala" />
+        <option value="$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/data_source/GenericFileSourceOption.scala" />
+        <option value="$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/data_source/PathGlobFilterTest.scala" />
       </list>
     </option>
   </component>
@@ -234,6 +257,23 @@
               <item name="spark-sql" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study-spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-sql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="name=1234" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study-spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-sql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -258,11 +298,7 @@
             <path>
               <item name="study-spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="spark-sql" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="nativeio" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-warehouse" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -275,7 +311,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spark-sql/src/main/resources/csv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spark-sql/src/main/resources/name/name=1234" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -291,17 +327,21 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\spark\spark-sql\src\main\resources\csv" />
-      <recent name="F:\spark" />
-      <recent name="F:\spark\spark-sql\src\main\resources" />
+      <recent name="F:\spark\spark-sql\src\main\resources\name\name=1234" />
+      <recent name="F:\spark\spark-sql\src\main\resources\name" />
+      <recent name="F:\spark\spark-sql\src\main\resources\name=1234" />
+      <recent name="F:\spark\spark-sql\src\main\resources\dir1" />
+      <recent name="F:\spark\spark-sql\src\main\resources\dir1\dir2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.yj.study.spark.sql" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\spark\spark-sql\src\main\resources\json" />
-      <recent name="F:\spark\spark-sql\src\main\resources\parquet" />
+      <recent name="F:\spark\spark-sql\src\main\resources\name" />
+      <recent name="F:\spark\spark-sql\src\main\resources\dir1" />
       <recent name="F:\spark\spark-sql\src\main\resources" />
+      <recent name="F:\spark\spark-sql\src\main\resources\dir1\dir2" />
+      <recent name="F:\spark\spark-sql\src\main\resources\json" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -316,13 +356,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericLoadAndSaveFunctions">
-    <configuration name="FirstRDD2Dataset" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.yj.study.spark.sql.getting_started.FirstRDD2Dataset" />
+  <component name="RunManager" selected="Application.PathGlobFilterTest">
+    <configuration name="GenericFileSourceOption" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.yj.study.spark.sql.data_source.GenericFileSourceOption" />
       <module name="sparks-ql" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yj.study.spark.sql.getting_started.*" />
+          <option name="PATTERN" value="com.yj.study.spark.sql.data_source.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,12 +399,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondRDD2Dataset" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.yj.study.spark.sql.getting_started.SecondRDD2Dataset" />
+    <configuration name="PathGlobFilterTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.yj.study.spark.sql.data_source.PathGlobFilterTest" />
       <module name="sparks-ql" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yj.study.spark.sql.getting_started.*" />
+          <option name="PATTERN" value="com.yj.study.spark.sql.data_source.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -386,19 +426,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FirstRDD2Dataset" />
       <item itemvalue="Application.GenericLoadAndSaveFunctions" />
-      <item itemvalue="Application.SecondRDD2Dataset" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.NativeTest" />
+      <item itemvalue="Application.GenericFileSourceOption" />
+      <item itemvalue="Application.PathGlobFilterTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PathGlobFilterTest" />
+        <item itemvalue="Application.GenericFileSourceOption" />
         <item itemvalue="Application.GenericLoadAndSaveFunctions" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.NativeTest" />
-        <item itemvalue="Application.SecondRDD2Dataset" />
-        <item itemvalue="Application.FirstRDD2Dataset" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +463,8 @@
       <workItem from="1624326171906" duration="257000" />
       <workItem from="1624326477503" duration="3933000" />
       <workItem from="1624332669018" duration="10643000" />
-      <workItem from="1624410891784" duration="4623000" />
+      <workItem from="1624410891784" duration="9446000" />
+      <workItem from="1624497046781" duration="3608000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1623313058786</created>
@@ -436,7 +477,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49312000" />
+    <option name="totallyTimeSpent" value="57743000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -451,14 +492,14 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2386059" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26742628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.5028329" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.51983005" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44192636" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -466,9 +507,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5013405" side_tool="true" weight="0.5424929" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.5424929" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3286119" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -506,71 +547,12 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.12/3.1.2/spark-sql_2.12-3.1.2.jar!/org/apache/spark/sql/DataFrameReader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Read.me" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spark-sql/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="18" column="19" selection-start-line="12" selection-start-column="5" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.12/3.1.2/spark-sql_2.12-3.1.2-sources.jar!/org/apache/spark/sql/DataFrameReader.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="425" column="35" selection-start-line="425" selection-start-column="26" selection-end-line="425" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.10/scala-library-2.12.10.jar!/scala/collection/Seq.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.10/scala-library-2.12.10-sources.jar!/scala/collection/Seq.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/package.scala" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="26" />
-          <folding>
-            <element signature="n#executions#0;n#plugin#1;n#plugins#0;n#build#0;n#project#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/SparkSessionUtils.scala" />
     <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/people.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/parquet/users.parquet">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.12/3.1.2/spark-sql_2.12-3.1.2-sources.jar!/org/apache/spark/sql/Dataset.scala">
       <provider selected="true" editor-type-id="text-editor">
@@ -627,13 +609,6 @@
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.12/3.1.2/spark-core_2.12-3.1.2.jar!/org/apache/spark/internal/Logging.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.12/3.1.2/spark-sql_2.12-3.1.2-sources.jar!/org/apache/spark/sql/SparkSession.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="775" column="6" selection-start-line="775" selection-start-column="6" selection-end-line="775" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.12/3.1.2/spark-sql_2.12-3.1.2-sources.jar!/org/apache/spark/sql/execution/SQLExecution.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
@@ -687,9 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/parquet/favorite_color.parquet">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/json/favorite_color.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -698,20 +670,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/Test.scala" />
     <entry file="file://$PROJECT_DIR$/users_with_options.orc/part-00000-355f8e63-1550-47bf-b7fc-b0d8cd99ae18-c000.snappy.orc" />
-    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/LoggerTrait.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/SparkSessionUtils.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/Test.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -726,8 +684,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/warehouse/1">
+    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/warehouse/1" />
+    <entry file="file://$PROJECT_DIR$/spark-sql/target/classes/warehouse/part-00000-65c0f7fd-c761-40ee-8ba4-c95e3520c7ce_00003.c000.snappy.parquet" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/users_partitioned_bucketed/_c2=男/.part-00000-a0c588a1-6e98-4b56-83b5-49e84cc4a1e3_00003.c000.snappy.parquet.crc" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/partitionbysex/_c2=男/part-00000-f5ee7b63-7f06-43c4-a273-2125a390bc7d.c000.json">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/org/apache/hadoop/io/nativeio/NativeIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/csv/people.csv">
       <provider selected="true" editor-type-id="text-editor">
@@ -736,44 +704,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spark-sql/target/classes/warehouse/part-00000-65c0f7fd-c761-40ee-8ba4-c95e3520c7ce_00003.c000.snappy.parquet">
+    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/LoggerTrait.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" lean-forward="true" selection-start-column="39" selection-end-column="39" />
+        <state relative-caret-position="154">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/users_partitioned_bucketed/_c2=男/.part-00000-a0c588a1-6e98-4b56-83b5-49e84cc4a1e3_00003.c000.snappy.parquet.crc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="15" selection-end-column="16" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/dir1/v.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/partitionbysex/_c2=男/part-00000-f5ee7b63-7f06-43c4-a273-2125a390bc7d.c000.json">
+    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/dir1/dir2/favorite_color.parquet" />
+    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/parquet/favorite_color.parquet">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/parquet/users.parquet">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/dir1/users.parquet">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/dir1/dir2/users.parquet">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/dir1/z.parquet">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.12/3.1.2/spark-sql_2.12-3.1.2-sources.jar!/org/apache/spark/sql/DataFrameWriter.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="267" column="10" selection-start-line="267" selection-start-column="5" selection-end-line="267" selection-end-column="10" />
+        <state relative-caret-position="2024">
+          <caret line="129" column="6" selection-start-line="129" selection-start-column="6" selection-end-line="129" selection-end-column="6" />
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.12/3.1.2/spark-sql_2.12-3.1.2-sources.jar!/org/apache/spark/sql/SparkSession.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13398">
+          <caret line="657" column="49" selection-start-line="657" selection-start-column="34" selection-end-line="657" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.12/3.1.2/spark-sql_2.12-3.1.2-sources.jar!/org/apache/spark/sql/DataFrameReader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="62" column="45" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/dir1/z.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/SparkSessionUtils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="20" selection-start-line="8" selection-start-column="4" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.10/scala-library-2.12.10-sources.jar!/scala/Option.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3916">
+          <caret line="188" selection-start-line="188" selection-end-line="188" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.12/3.1.2/spark-sql_2.12-3.1.2-sources.jar!/org/apache/spark/sql/execution/datasources/DataSource.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="418" column="59" selection-start-line="418" selection-start-column="59" selection-end-line="418" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/name/name=1234/users.parquet">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/name/users.parquet">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/data_source/GenericLoadAndSaveFunctions.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="44" column="43" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
+        <state relative-caret-position="284">
+          <caret line="53" column="55" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="55" />
           <folding>
             <element signature="e#44#106#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/org/apache/hadoop/io/nativeio/NativeIO.java">
+    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/data_source/GenericFileSourceOption.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="52" column="35" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="35" />
+        <state relative-caret-position="44">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/resources/name/name=1234/name.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-sql/src/main/scala/com/yj/study/spark/sql/data_source/PathGlobFilterTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
